@@ -37,3 +37,4 @@ echo "Error al conectar con la base de datos: " .
 htmlspecialchars($e->getMessage());
 exit;
 }
+?>
